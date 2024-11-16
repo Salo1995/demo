@@ -12,7 +12,7 @@ public class Juego {
     private Long id;
     private String titulo;
     private String autor;
-    private int anioPublicacion;
+    private int anioPublicacion;//
     private String categoria;
 
     // Getters y Setters
